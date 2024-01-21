@@ -76,4 +76,3 @@ for x in stats:
     for y in names:
         print(x, y)
 print()
-
