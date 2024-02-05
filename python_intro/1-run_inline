@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+# write a scrit to run export PYCODE='print(f"Best School: {88+10}")'
+python3 -c "$PYCODE"
